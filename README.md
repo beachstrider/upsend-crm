@@ -111,22 +111,3 @@ Upsend is built for the *next* 10 years of the Internet, so our requirements are
 Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https://github.com/PromediaB/upsend/blob/master/Gemfile).
 
 
-
-## Copyright / License
-
-Copyright 2019 .
-
-Licensed under the GNU General Public License Version 2.0 (or later);
-you may not use this work except in compliance with the License.
-You may obtain a copy of the License in the LICENSE file, or at:
-
-   https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-                  Copyright upsend@2019.
-
