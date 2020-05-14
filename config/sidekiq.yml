@@ -1,0 +1,11 @@
+---
+  :concurrency: 2
+  staging:
+    :concurrency: 5
+  production:
+    :concurrency: 5
+  :queues:
+    - [mailers, 2]
+    - [default, 1]
+    - [active_storage_analysis, 2]
+    - [active_storage_purge, 2]

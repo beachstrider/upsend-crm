@@ -1,0 +1,20 @@
+.rdt_TableRow{
+    border-left: 6px solid #fff;
+    border-radius: 6px;
+}
+.rdt_TableRow:hover {
+    background: transparent linear-gradient(90deg, #FAF6F1 0%, #FFFFFF 100%) 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    border-left: 6px solid #FFD300;
+}
+.rdt_TableHeadRow {
+    border-left: 6px solid #fff;
+}
+.buttonPosi{
+    position: absolute!important;
+    top: 5px;
+    right: 5px;
+}
+.MainRouter-appContent-5 .MuiToolbar-regular {
+    min-height: 0;
+}

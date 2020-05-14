@@ -1,0 +1,2 @@
+class TrialPeriod < ApplicationRecord
+end

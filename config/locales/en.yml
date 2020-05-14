@@ -1,0 +1,92 @@
+
+en:
+  dashboard:
+    response_avg: Response Time avg
+    new_conversations: New conversations
+    resolutions: Resolutions
+    incoming_messages: Incoming Messages
+    visit_activity: Visit activity
+    users_browser: Users browser
+    lead_os: Lead Os
+    user_os: User Os
+    mac_os: Mac OS
+    user_country: User country
+
+  navigator:
+    platform: Platform
+    conversations: Conversations
+    campaigns: Campaigns
+    routing_bots: Routing Bots
+    help_center: Help Center
+    settings: Settings
+
+  task_bots:
+    reply_soon: Hi, %{name} will reply as soon as they can.
+    reply_agent: you will get a reply from one of our agents
+    email_support: to get support you can email at %{email} 
+    email_requirement:
+      message: Give the team a way to reach you
+      input_label: Get notified by email
+      placeholder: Enter your email
+      ack: Thank you
+    support:
+      ask: Are you an %{name} existing customer ?
+      options:
+        op1: Yes, I'm a customer
+        op2: No, I'm not an existing customer yet
+      reply:
+        op1: Welcome back!
+        op2: ok, let us know if you need something and an agent will reply as soon as posible
+  settings:
+    availability:
+
+      title: Set your availability
+      hint: Set team office hours and reply times
+      title2: Set office hours
+      hint2: Outside these hours, customers see when you'll be back, relative to their timezone.
+      timezone: YOUR APP’S TIMEZONE IS %{tz}
+
+      reply_time:
+        title: Set reply time
+        hint: During office hours, let your customers know when they can expect a reply.
+
+        options:
+          - value: "auto" 
+            label: "Automatic reply time. Currently El equipo responderá lo antes posible" 
+          - value: "minutes" 
+            label: "El equipo suele responder en cuestión de minutos."
+          - value: "hours" 
+            label: "El equipo suele responder en cuestión de horas."
+          - value: "1 day" 
+            label: "El equipo suele responder en un día."
+
+        hint2: "Note: visitor will receive an auto reply with your team’s 
+                availability during out-of-office hours or long reply times."
+
+    email_requirement:
+
+      title: Require an email for new conversations
+      hint: So you can always get back to your website visitors
+      ask: "Ask your website visitors to leave their email before starting a live chat:"
+      options:
+        - label: Only outside of office hours
+          hint: REDUCES CONVERSATION VOLUME BY AROUND 5% ON AVERAGE
+          value: office
+        - label: Always
+          hint: REDUCES CONVERSATION VOLUME BY AROUND 30% ON AVERAGE
+          value: Always
+        - label: Never
+          value: Never
+          hint: WILL ALLOW WEBSITE VISITORS TO START A CONVERSATION AT ANY TIME
+
+
+    inbound:
+
+      title: New conversations button
+      checkbox: Let people start new inbound conversations with you
+      hint: WHEN THIS IS TURNED OFF, PEOPLE CAN ONLY REPLY TO THE OUTBOUND MESSAGES YOU SEND.
+
+      title2: visibility
+      hint2: Control who sees the standard Messenger launcher on your website.
+      note2: ANY MESSAGES YOU SEND WILL STILL BE DELIVERED.
+      note3: "On the web, show the standard Messenger launcher to:"
