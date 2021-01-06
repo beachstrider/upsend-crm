@@ -25,7 +25,7 @@
     "activestorage": "^5.2.3",
     "add": "^2.0.6",
     "array-move": "^2.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-prismjs": "^1.1.1",
     "body-scroll-lock": "^3.0.1",
     "date-fns": "^2.13.0",
