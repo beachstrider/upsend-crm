@@ -108,6 +108,6 @@ Upsend is built for the *next* 10 years of the Internet, so our requirements are
 - [PostgreSQL](https://www.postgresql.org/) &mdash; Our main data store is in Postgres.
 - [Redis](https://redis.io/) &mdash; We use Redis as a cache and for transient data.
 
-Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https://github.com/uniquesolution29/upchat-crm/blob/master/Gemfile).
+Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https://github.com/uniquesolution29/upsend-crm/blob/master/Gemfile).
 
 
