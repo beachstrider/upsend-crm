@@ -78,7 +78,7 @@ gem 'omniauth-oauth2'
 gem "doorkeeper", "~> 5.2"
 gem "oauth", "~> 0.5.4"
 
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'mimemagic'
 
 gem 'sidekiq'
