@@ -1,3 +1,5 @@
+![upsend-website-interface-1160x548](https://user-images.githubusercontent.com/48445639/219714138-1cc90098-2f30-4bd9-916e-f8227241a92f.png)
+
 ## Main features:
 
 - **Segments** or users filters to trigger campaigns, messages and bots.
