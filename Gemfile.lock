@@ -288,7 +288,7 @@ GEM
     jaro_winkler (1.5.4)
     jbuilder (2.9.1)
       activesupport (>= 4.2.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.3.0)
     jwe (0.4.0)
     jwt (2.2.1)
